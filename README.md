@@ -64,7 +64,7 @@ Impacts of the Tourism Management System:
 
 - Course Name: Algorithms Lab 
 - Course Code: 24ECAC203 
-- Name: Bhagyavathi Shetty 
+- Name: Bhagyavathi Shetty
 - SRN: 02FE23BCI023
 - Course Instructor: Dr. Priyanka Gavade  
 - University: KLE TECHNOLOGICAL UNIVERSITY
